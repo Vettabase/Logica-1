@@ -9,4 +9,5 @@ Ideas can be shared in the [Issues](https://github.com/Vettabase/Logica-1/issues
 
 At the current stage, we choose not to disclose the project to everyone.
 If you'd like to learn about it, feel free to contact the document maintainer:
+
 Federico Razzoli <federico.razzoli@vettabase.com>.
